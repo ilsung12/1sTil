@@ -216,15 +216,14 @@ print(func_final(10, 10, lambda x: x * 1000)) # 함수내에서도 명령어로 
 
 
 # 결과값 : 
+# <function mul_10 at 0x00000288954F8048>
+# <class 'function'>
+# 100
 
-<function mul_10 at 0x00000288954F8048>
-<class 'function'>
-100
+# >>> 1000
 
->>> 1000
-
-100000
-1000000
-None
+# 100000
+# 1000000
+# None
 
 
