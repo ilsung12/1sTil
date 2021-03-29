@@ -1,3 +1,3 @@
-# 1sTil
+# 1sTil -> git 최초 repository
 
-Hello Git !
+## Python 기초 문법 정리
