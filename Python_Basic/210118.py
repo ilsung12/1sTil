@@ -86,7 +86,6 @@ print("ex2: ", Fibonacci().title)
 
 print("-------------------------------------------------------------------")
 
-
 # 사용 3 (클래스 형태, alias)
 from pkg.fibonacci import Fibonacci as fb
 
